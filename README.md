@@ -17,10 +17,9 @@
 
 ## 🏆 알고리즘 스터디 커리큘럼
 
-| 1주차 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 큐, 우선순위 큐 |
-| 2주차 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 해시, 정렬 |
-| 3주차 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | BFS, 최단경로 |
-
+| 1주차 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 큐, 우선순위 큐 |\n
+| 2주차 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 해시, 정렬 |\n
+| 3주차 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | BFS, 최단경로 |\n
 
 
 
